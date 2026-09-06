@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BYTE {
+public class bit {
 	private static final char FLAG = 'F';
 	private static final char ESCAPE = 'E';
 
